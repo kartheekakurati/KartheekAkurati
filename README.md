@@ -8,7 +8,7 @@ I'm a Senor Associate Software Engineer focused on Signal Processing with AI and
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="/src/india.jpg" /> I'm from INDIA
+* <img width="30" src="/src/download.png.jpg" /> I'm from INDIA
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 👩‍🏫 Love teaching and sharing knowledge
