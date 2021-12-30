@@ -1,14 +1,14 @@
-# **Hi<img src="/src/wave.gif" width="30px">, Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />** 
+# **Hi<img src="/src/wave.gif" width="30px">, Welcome to my GitHub! <img src="/src/blobexe.gif" width="30" alt="party blob" />** 
 
 <img src="/src/header_.png">
 
 <p>I'm <b>Kartheek Akurati</b> <img src="/src/Developer.gif" width="30px">
 
-
+I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+* <img width="16" src="/src/india.jpeg" /> I'm from INDIA
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 👩‍🏫 Love teaching and sharing knowledge
