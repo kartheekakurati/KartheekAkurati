@@ -4,11 +4,11 @@
 
 <p>I'm <b>Kartheek Akurati</b> <img src="/src/Developer.gif" width="30px">
 
-I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at
+I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at <img src="/src/MathWorks.png">
 <br>
 
 ## 👩‍💻 About me
-* <img width="30" src="/src/download.png" /> I'm from INDIA
+* I'm from INDIA
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 👩‍🏫 Love teaching and sharing knowledge
