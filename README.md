@@ -2,7 +2,7 @@
 
 <img src="/src/header_.png">
 
-<p>I'm **Kartheek Akurati** <img src="/src/Developer.gif" width="30px">
+<p>I'm <b>Kartheek Akurati</b> <img src="/src/Developer.gif" width="30px">
 
 
 <br>
