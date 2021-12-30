@@ -1,6 +1,7 @@
-# Hey, I am Kartheek Akurati! Great to see you here! <img src="/src/wave.gif" width="30px">
+# Hi <img src="/src/wave.gif" width="30px">, Welcome to my GitHub! 
 
 <img src="/src/header_.png">
+
 
 
 <!--
