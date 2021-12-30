@@ -6,7 +6,7 @@
 
 I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at  <strong><a href="https://in.mathworks.com/?requestedDomain="><img src="/src/matIcon.png" width="20px">  MathWorks India Private Limited</a></strong>
 
-I've been working in the field of Signal Processing and SDR since 2017, and during this time I worked and lead some of the most diverse projects and big projects in carrer which are,
+I've been working in the field of Signal Processing and SDR since 2017, and during this time I lead some of the most diverse projects in carrer out which some are,
   | Project | Technology |
   | --- | --- |
   | Technical Debt reduction | C, C++ and MATLAB |
@@ -14,6 +14,8 @@ I've been working in the field of Signal Processing and SDR since 2017, and duri
   | Biomedical File Formats interface | MATLAB |
   | File Analyzer Apps | JavaScript and MATLAB |
   | Wavelet Analysis Apps | JavaScript and MATLAB |
+  
+These gave hand-on experience on Requirements collection, defining MVP and splitting the projects, Beta release, defining multi release plans, NPI cycle, Functional and Achitecture design, and handling and completing multiple projects in a given time frame using freshers, interns.
 <br>
 
 ## 👩‍💻 About me
