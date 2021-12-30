@@ -1,4 +1,4 @@
-# Hey, I am Kartheek Akurati! Great to see you here! <img src="/src/header.jpg">
+# Hey, I am Kartheek Akurati! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 <!--
 **kartheekakurati/KartheekAkurati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
