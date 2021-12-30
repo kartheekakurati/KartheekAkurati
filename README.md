@@ -1,4 +1,4 @@
-# Hi<img src="/src/wave.gif" width="30px">, Welcome to my GitHub! 
+# **Hi<img src="/src/wave.gif" width="30px">, Welcome to my GitHub! <img src="/src/wave.gif" width="30px">** 
 
 <img src="/src/header_.png">
 
