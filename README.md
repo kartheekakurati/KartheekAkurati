@@ -9,10 +9,9 @@ I'm a Senor Associate Software Engineer focused on Signal Processing with AI and
 I've been working in the field of Signal Processing and SDR since 2017, and during this time I worked and lead some of the most diverse projects which are,
   | Project | Technology |
   | --- | --- |
-  | git status | List all new or modified files |
+  | Technical Debt reduction communication Toolbox and DSP Toolbox | C, C++ and MATLAB |
   | git diff | Show file differences that haven't been staged |
-  * Project: Technical Debt reduction communication Toolbox and DSP Toolbox. Technology: 
-  *
+ 
 
 <br>
 
