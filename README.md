@@ -2,7 +2,7 @@
 
 <img src="/src/header_.png">
 
-<p>I'm Kartheek Akurati <img src="/src/Developer.gif">
+<p>I'm Kartheek Akurati <img src="/src/Developer.gif" width="30px">
   
 at <strong><a href="https://microsoft.com/">MathWorks</a></strong>. 
 
