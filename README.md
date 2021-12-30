@@ -1,4 +1,4 @@
-<img src="/src/header.jpg" width="50%">
+<img src="/src/header.jpg">
 # Hey, I am Kartheek Akurati! Great to see you here!
 <!--
 **kartheekakurati/KartheekAkurati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
