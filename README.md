@@ -4,7 +4,16 @@
 
 <p>I'm <b>Kartheek Akurati</b> <img src="/src/Developer.gif" width="30px">
 
-I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at <strong><a href="https://in.mathworks.com/?requestedDomain="><img src="/src/download.png" width="30px"> MathWorks India Private Limited</a></strong> 
+I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at  <strong><a href="https://in.mathworks.com/?requestedDomain="><img src="/src/matIcon.png" width="20px">  MathWorks India Private Limited</a></strong>
+
+I've been working in the field of Signal Processing and SDR since 2017, and during this time I worked and lead some of the most diverse projects which are,
+  | Project | Technology |
+  | --- | --- |
+  | git status | List all new or modified files |
+  | git diff | Show file differences that haven't been staged |
+  * Project: Technical Debt reduction communication Toolbox and DSP Toolbox. Technology: 
+  *
+
 <br>
 
 ## 👩‍💻 About me
