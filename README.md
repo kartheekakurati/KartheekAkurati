@@ -4,7 +4,7 @@
 
 <p>I'm <b>Kartheek Akurati</b> <img src="/src/Developer.gif" width="30px">
 
-I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at <img src="/src/MathWorks.png" width="30px">
+I'm a Senor Associate Software Engineer focused on Signal Processing with AI and Software Defined Radios at <img src="/src/MathWorks.png" width="200px">
 <br>
 
 ## 👩‍💻 About me
